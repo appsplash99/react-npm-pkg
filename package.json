@@ -1,0 +1,38 @@
+{
+  "name": "react-npm-pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appsplash99/react-npm-pkg.git"
+  },
+  "author": "Apurv Chimralwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appsplash99/react-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/appsplash99/react-npm-pkg#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@storybook/addon-actions": "^6.5.13",
+    "@storybook/addon-essentials": "^6.5.13",
+    "@storybook/addon-interactions": "^6.5.13",
+    "@storybook/addon-links": "^6.5.13",
+    "@storybook/builder-webpack4": "^6.5.13",
+    "@storybook/manager-webpack4": "^6.5.13",
+    "@storybook/react": "^6.5.13",
+    "@storybook/testing-library": "^0.0.13",
+    "@types/react": "^16.14.34",
+    "babel-loader": "^8.3.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-is": "^16.13.1",
+    "typescript": "^4.8.4"
+  }
+}
