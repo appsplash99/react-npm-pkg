@@ -26,3 +26,4 @@ https://github.com/storybookjs/storybook/issues/12886#issuecomment-715671477
 ### Ideas
 
 - consume/create css similar to tailwindcss/chakra-ui with color-object/spacing/typography/etc...
+- add absolute/subpath imports
